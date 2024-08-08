@@ -14,7 +14,7 @@ A cutting-edge chat application built with MERN, leveraging the Chat Engine API 
 
 To configure the environment variables for the project, follow these steps:
 
-1. Create a `.env` file in the root of both directories `frontend` and `Backend` folders.
+1. Create a `.env` file in the root of both `frontend` and `Backend` folders.
 2. Add the following environment variables to the `.env` file:
 
 ### ./frontend
